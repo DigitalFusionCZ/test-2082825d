@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:45:37.562Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-main.png",
+      "file_name": "logo-main.png",
+      "description": "Primary logo for the 'VŠE PRO STAVBY.CZ' website. It appears to be a white or light-colored logo, possibly designed for use on darker backgrounds or as a standalone identity mark. The original dimensions (1024x609) suggest it's a high-resolution version.",
+      "suggested_usage": "Use as the main site logo in the header or footer. Consider creating SVG versions for better scalability and smaller file size. Ensure it renders well on various backgrounds if the site design changes.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "An image depicting a building or construction project, likely in Tanvald, given the original filename. The 'scaled' notation suggests it might be a resized version of a larger original. It's a landscape orientation image (1024x576) suitable for showcasing completed work.",
+      "suggested_usage": "Use in a project gallery, portfolio section, or as a supporting image within a service page. Add descriptive alt text to improve accessibility and SEO.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/gallery-family-house-reconstruction.jpg",
+      "file_name": "gallery-family-house-reconstruction.jpg",
+      "description": "An image related to a family house (RD, Rodinný dům) project, potentially a reconstruction (PO, Pravděpodobně Oprava/Přestavba). The alt text 'RDPO' directly references this context. Without dimensions, its suitability for different layouts is unknown.",
+      "suggested_usage": "Use in a portfolio section showcasing residential projects or specific renovation services. Verify dimensions and optimize for web performance. Ensure the alt text is more descriptive for users and search engines (e.g., 'Reconstruction of a family house').",
+      "size_bytes": 558411
+    }
+  ]
+}
